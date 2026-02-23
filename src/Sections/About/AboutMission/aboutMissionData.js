@@ -1,4 +1,4 @@
-import missionImage from "../../../assets/images/HeroImage.jpg"
+import missionImage from "../../../assets/Images/HeroImage.jpg"
 
 export const aboutMissionData = {
   label: "Who We Are",
