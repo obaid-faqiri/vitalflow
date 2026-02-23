@@ -1,4 +1,4 @@
-import AboutHero from "../../sections/About/AboutHero/AboutHero";
+import AboutHero from "../../Sections/About/AboutHero/AboutHero";
 import AboutMission from "../../Sections/About/AboutMission/AboutMission";
 import AboutStats from "../../Sections/About/AboutStats/AboutStats";
 import Newsletter from "../../Sections/About/Newsletter/Newsletter";
