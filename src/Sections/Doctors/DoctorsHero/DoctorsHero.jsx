@@ -1,5 +1,5 @@
 import { doctorsHeroData } from "./doctorsHeroData";
-import Container from "../../../components/shared/Container";
+import Container from "../../../Components/shared/Container";
 
 const DoctorsHero = () => {
   const { label, title } = doctorsHeroData;
