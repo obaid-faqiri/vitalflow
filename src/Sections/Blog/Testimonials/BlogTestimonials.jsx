@@ -1,7 +1,7 @@
 import { motion
   
  } from "framer-motion";
-import Container from "../../../components/shared/Container";
+import Container from "../../../Components/shared/Container";
 import { testimonialsData } from "./testimonialsData";
 
 const containerVariants = {
