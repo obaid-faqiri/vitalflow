@@ -1,4 +1,4 @@
-import visionImage from "../../../assets/images/HeroImage.jpg"
+import visionImage from "../../../assets/Images/HeroImage.jpg"
 
 export const aboutVisionData = {
   label: "Our Vision",

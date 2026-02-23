@@ -1,6 +1,6 @@
-import doctor1 from "../../../assets/images/HeroImage.jpg"
-import doctor2 from "../../../assets/images/HeroImage.jpg"
-import doctor3 from "../../../assets/images/HeroImage.jpg"
+import doctor1 from "../../../assets/Images/HeroImage.jpg"
+import doctor2 from "../../../assets/Images/HeroImage.jpg"
+import doctor3 from "../../../assets/Images/HeroImage.jpg"
 
 export const teamData = {
   label: "Our Team",

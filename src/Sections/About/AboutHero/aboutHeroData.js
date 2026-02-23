@@ -1,4 +1,4 @@
-import heroImage from "../../../assets/images/HeroImage.jpg"
+import heroImage from "../../../assets/Images/HeroImage.jpg"
 
 export const aboutHeroData = {
   label: "About Us",

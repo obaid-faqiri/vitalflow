@@ -1,4 +1,4 @@
-import HeroImage from "../../../assets/images/HeroImage.jpg";
+import HeroImage from "../../../assets/Images/HeroImage.jpg";
 
 export const doctorsGridData = [
   {
