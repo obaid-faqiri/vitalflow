@@ -1,4 +1,4 @@
-import Container from "../../../components/shared/Container";
+import Container from "../../../Components/shared/Container";
 import { blogGridData } from "./blogGridData";
 import BlogCard from "./BlogCard";
 
